@@ -1,5 +1,5 @@
 const countdown = document.querySelector('.countdown')
-const targetDate = new Date('Dec 24,2021,00:00:01').getTime();
+const targetDate = new Date('Dec 24,2023,00:00:01').getTime();
 
 const interval = setInterval(() => {
     console.log('tick');
